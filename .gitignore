@@ -1,0 +1,4 @@
+*/tmp/
+*/log?
+.DS_Store
+sample_app/tmp/*
